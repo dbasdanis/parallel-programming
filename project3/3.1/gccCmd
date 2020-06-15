@@ -1,0 +1,1 @@
+gcc mandelGUI_monitor.c mandelCore.c -o mandelGUI_monitor -L /usr/X11R6/lib -lX11 -pthread
